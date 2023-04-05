@@ -1,0 +1,49 @@
+package kahvemakinesi;
+
+import java.util.Scanner;
+
+public class Depo {
+
+    /*
+
+     1. Basit bir Kahve makinesi oluşturun. 3 çeşit kahvemiz olsun.
+     2. Sistem şu soruyu sorsun: "Hangi Kahveyi istersiniz?"
+     3. Bu soru ile birlikte kullanıcı kahve bilgilerini görsün.
+
+     Sistem bize şu soruyu sorsun: "Süt eklememizi ister misiniz ? (Evet veya Hayır olarak cevaplayınız.)
+
+
+     Sistem bize "Şeker ister misiniz ? (Evet veya hayır cevabını veriniz) : " şeklinde bir soru sorsun."
+                                                                             ( için string method kullanın.)
+
+     Sistem bize "Hangi boyutta olsun? (Büyük boy - orta boy - küçük boy olarak giriniz.)
+
+
+    //todo SONUÇ BÖLÜMÜ
+
+    Siparişlerimizi verdik. Son hali görmek istiyoruz.
+    konsola şunu yazdırın örnek :
+
+    Türk Kahvesi orta boy hazırdır. Afiyet olsun !!! (Türk kahvesi için String hangiKahveyi kullanın.)
+
+    orta boy için de String boyut ' u kullanın.)
+
+
+     */
+
+    static String kahve;
+
+    static String secim;
+
+    static Scanner scan = new Scanner(System.in);
+
+    static String sutEklendi;
+    static String sekerEklendi;
+
+    static int fiyat;
+
+
+
+
+
+}
